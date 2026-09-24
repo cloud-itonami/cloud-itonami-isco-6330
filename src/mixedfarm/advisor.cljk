@@ -42,7 +42,7 @@
    schedule-farm-operation; :concern-type/:note for
    flag-livelihood-concern; :item/:cost/:vendor for
    coordinate-supply-order)}"
-  (:require [clojure.edn :as edn]))
+  (:require [kotoba.lang.edn :as edn]))
 
 (defprotocol Advisor
   (-advise [advisor store request] "request -> proposal map"))
