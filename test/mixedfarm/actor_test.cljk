@@ -1,5 +1,5 @@
 (ns mixedfarm.actor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [mixedfarm.actor :as actor]
             [mixedfarm.advisor :as advisor]
             [mixedfarm.governor :as governor]

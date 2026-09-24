@@ -1,5 +1,5 @@
 (ns mixedfarm.governor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [mixedfarm.store :as store]
             [mixedfarm.advisor :as advisor]
             [mixedfarm.governor :as governor]))
