@@ -1,7 +1,7 @@
 (ns mixedfarm.store
   "SSoT for the ISCO-08 6330 subsistence-mixed-crop-and-livestock-farmers
   farm record-keeping/logistics coordination actor (itonami actor
-  pattern, ADR-2607121000 / CLAUDE.md Actors section; README's
+  pattern, ADR-2607121000 / AGENTS.md Actors section; README's
   'Robotics premise' — a farm-logistics robot performs planting/
   harvest/feeding-schedule/condition-check-in data entry, household
   labor/task scheduling, and seeds/feed/tools procurement coordination
